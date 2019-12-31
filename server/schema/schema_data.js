@@ -10,7 +10,7 @@ var users = [
 var roles = [
     { name: 'Admin', description: 'Manage entire Application', id: '1' },
     { name: 'Content Approver', description: 'Manage content & its approval', id: '2' },
-    { name: 'Content Creator ', description: 'Create all types of content', id: '3' }
+    { name: 'Content Creator', description: 'Create all types of content', id: '3' }
 ];
 
 module.exports = {users, roles};
